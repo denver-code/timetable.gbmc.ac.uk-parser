@@ -1,4 +1,5 @@
 # timetable.gbmc.ac.uk timetable parser
+## No longer working!! They've shut the server when migrated to C-Space
 This function can parse timetable from timetable.gbmc.ac.uk and return list with dicts.  
 Before using you need get your PHPSESSID after authing on timetable.gbmc.ac.uk via google oauth. You can found PHPSESSID in cookies.
 After use code like this: 
